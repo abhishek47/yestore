@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAIA;EACe,kBAAA,EAAA;;AAGf;EACE,kBAAY,EAAA","file":"app.css","sourcesContent":["@import \"partials/colors\";\r\n\r\n@import \"partials/headings\";\r\n\r\nbody {\r\n  padding-top: 0px;\r\n}\r\n\r\n#footer {\r\n  margin-top: 20px;\r\n}"],"sourceRoot":"/source/"}
