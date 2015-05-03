@@ -15,11 +15,11 @@ elixir(function(mix) {
     mix.sass('app.scss');
 
     mix.scripts([
+        'libs/jquery.js',
         'libs/bootstrap.min.js',
         'libs/contact.js',
         'libs/gmaps.js',
         'libs/html5shiv.js',
-        'libs/jquery.js',
         'libs/jquery.prettyPhoto.js',
         'libs/jquery.scrollUp.min.js',
         'libs/price-range.js',
